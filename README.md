@@ -1,17 +1,3 @@
-Crypto Trading Web App 📈
+Crypto Trading Web Application:
 
-Overview
-
-A web-based platform that simulates cryptocurrency trading, allowing users to track price movements, execute trades, and manage a virtual portfolio.
-
-Features
-
-✔️ Real-time (simulated) price updates
-
-✔️ Buy/sell cryptocurrency transactions
-
-✔️ Interactive user interface for managing trades
-
-Technologies Used
-
-HTML, CSS, JavaScript
+A web-based platform that simulates cryptocurrency trading, allowing users to track price movements, execute trades, and manage a virtual portfolio. Term project for CTIS 255 (Frontend Web Technologies) course.
